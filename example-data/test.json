@@ -1,0 +1,15 @@
+    {
+        "id": 0,
+        "turkish": "okumak",
+        "wrong_options_en": [
+            "test_tr",
+            "test_tr1",
+            "test_tr2"
+        ],
+        "wrong_options_tr": [
+            "test_en",
+            "test_en1",
+            "test_en2"
+        ],
+        "english": "reading"
+    }
